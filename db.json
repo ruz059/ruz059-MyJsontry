@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "title": "Personal Portfolio Website",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&h=300&fit=crop",
+      "alt": "Code editor showing website development",
+      "description": "A responsive portfolio website built with HTML5, CSS3, and JavaScript, featuring custom web components and modern CSS features. This project demonstrates modern web development practices and responsive design principles.",
+      "link": "index.html",
+      "date": "2024 - Present",
+      "technologies": "HTML5,CSS3,JavaScript,Web Components"
+    },
+    {
+      "title": "CSE 134B Course Projects",
+      "image": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=400&h=300&fit=crop",
+      "alt": "Team collaboration on software project",
+      "description": "Advanced web development projects including responsive design, accessibility features, and modern web APIs. Collaborated with team members to implement complex features while maintaining code quality.",
+      "link": "#",
+      "date": "2025 Winter",
+      "technologies": "HTML5,CSS Grid,Flexbox,JavaScript,Accessibility"
+    },
+    {
+      "title": "Philosophy Thesis - Plato's View on Women",
+      "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=300&fit=crop",
+      "alt": "Ancient Greek philosophy books and scrolls",
+      "description": "Comprehensive research paper analyzing Plato's perspective on women in classical philosophy. Examined Republic and Laws to understand his progressive yet contradictory views on gender equality.",
+      "link": "https://docs.google.com/document/d/1rS0534BHgKCUxB0tbsLDJbJfSEgQORtp9S7bmgAFLL0/edit?usp=sharing",
+      "date": "2023 Spring",
+      "technologies": "Philosophy,Research,Academic Writing,Classical Studies"
+    },
+    {
+      "title": "Academic Research Platform",
+      "image": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=400&h=300&fit=crop",
+      "alt": "Data visualization and research dashboard",
+      "description": "Developed a platform for academic research collaboration with real-time data visualization and interactive features. Implemented responsive charts and collaborative tools for research teams.",
+      "link": "#",
+      "date": "2024 Fall",
+      "technologies": "JavaScript,Chart.js,API Integration,Data Visualization"
+    },
+    {
+      "title": "Green Theme Design System",
+      "image": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=400&h=300&fit=crop",
+      "alt": "Color palette and design system components",
+      "description": "Created a comprehensive design system using CSS variables and modern design principles. Features accessible color schemes and responsive components for consistent user experience.",
+      "link": "#",
+      "date": "2024 Summer",
+      "technologies": "CSS3,Design Systems,Accessibility,UI/UX"
+    }
+  ]
+}
